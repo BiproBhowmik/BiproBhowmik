@@ -23,7 +23,7 @@
 <a href="https://fb.com/biprojoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="biprojoy" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/biprobhowmik5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="biprobhowmik5" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/biprobhowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="biprobhowmik" height="30" width="40" /></a>
-<a href="https://www.beecrowd.com.br/judge/en/profile/149554" target="blank"><img align="center" src="" alt="URI" height="30" width="40" /></a>
+<a href="https://www.beecrowd.com.br/judge/en/profile/149554" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/52849848?s=400&u=8896cca424e38aead074c834118cde8ddb02d6ef&v=4" alt="URI" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
