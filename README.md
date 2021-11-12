@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Laravel, AdonisJS, NuxtJS**
 
-- 📫 How to reach me **biprobhowmik5@gmail.com** **cse.bipro@gmail.com**
+- 📫 How to reach me **biprobhowmik5@gmail.com** AND **cse.bipro@gmail.com**
 
 - ⚡ Fun fact **https://www.facebook.com/biprojoy**
 
