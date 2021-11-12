@@ -23,7 +23,7 @@
 <a href="https://fb.com/biprojoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="biprojoy" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/biprobhowmik5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="biprobhowmik5" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/biprobhowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="biprobhowmik" height="30" width="40" /></a>
-<a href="https://www.beecrowd.com.br/judge/en/profile/149554" target="blank"><img align="center" src="https://www.bing.com/images/search?view=detailV2&ccid=CpywlRpY&id=A93FDD560815E483E091804626D8810003DDF485&thid=OIP.CpywlRpY5Od3m-E1hVVWRQAAAA&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.0a9cb0951a58e4e7779be13585555645%3frik%3dhfTdAwCB2CZGgA%26riu%3dhttp%253a%252f%252fdka575ofm4ao0.cloudfront.net%252fpages-transactional_logos%252fretina%252f9144%252fRl1qxNZhT5u7Bii1tesO%26ehk%3d4l%252blGnSD7jogyoq4IDMO2XCHUk47X9931LM3uxPl3og%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=140&expw=242&q=uri+online+judge&simid=608049103058646323&FORM=IRPRST&ck=0897A760FA022CE93E5A807549CB00BD&selectedIndex=1&ajaxhist=0&ajaxserp=0" alt="URI" height="30" width="40" /></a>
+<a href="https://www.beecrowd.com.br/judge/en/profile/149554" target="blank"><img align="center" src="" alt="URI" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
