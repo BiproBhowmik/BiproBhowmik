@@ -23,7 +23,7 @@
 <a href="https://fb.com/biprojoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="biprojoy" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/biprobhowmik5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="biprobhowmik5" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/biprobhowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="biprobhowmik" height="30" width="40" /></a>
-<a href="https://www.beecrowd.com.br/judge/en/profile/149554" target="blank"><img align="center" src="https://www.google.com.bd/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Furisolve%2F&psig=AOvVaw2JxYaLminXFkGup7ZORNPG&ust=1636786982666000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjLxemgkvQCFQAAAAAdAAAAABAD" alt="biprobhowmik" height="30" width="40" /></a>
+<a href="https://www.beecrowd.com.br/judge/en/profile/149554" target="blank"><img align="center" src="https://www.google.com.bd/search?q=uri+online+judge+logo&tbm=isch&ved=2ahUKEwj188jeoJL0AhVKzKACHYvRCNgQ2-cCegQIABAA&oq=uri+online+judge+&gs_lcp=CgNpbWcQARgAMgQIABATMgYIABAeEBM6BwgjEO8DECdQxAlYxAlglxdoAHAAeACAAXeIAeABkgEDMC4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=lRGOYbXVKcqYg8UPi6OjwA0&bih=657&biw=1366#imgrc=-eugZlP-IRcqZM" alt="biprobhowmik" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
