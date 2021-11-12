@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **VueJS, NuxtJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BiproBhowmik](https://github.com/BiproBhowmik)
+- 👨‍💻 All of my projects are available at [https://github.com/BiproBhowmik?tab=repositories](https://github.com/BiproBhowmik?tab=repositories)
 
 - 💬 Ask me about **Laravel, AdonisJS, NuxtJS**
 
