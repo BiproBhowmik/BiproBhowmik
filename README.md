@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bipro Bhowmik Joy</h1>
-<h3 align="center">A passionate Backend developer from Bangladesh</h3>
+<h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biprobhowmik&label=Profile%20views&color=0e75b6&style=flat" alt="biprobhowmik" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Laravel, AdonisJS, NuxtJS**
 
-- 📫 How to reach me **biprobhowmik5@gmail.com**
+- 📫 How to reach me **biprobhowmik5@gmail.com** **cse.bipro@gmail.com**
 
 - ⚡ Fun fact **https://www.facebook.com/biprojoy**
 
