@@ -24,7 +24,7 @@
 <a href="https://www.codechef.com/users/biprobhowmik5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="biprobhowmik5" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/biprobhowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="biprobhowmik" height="30" width="40" /></a>
 <a href="https://www.beecrowd.com.br/judge/en/profile/149554" target="blank"><img align="center" src="https://i.ytimg.com/vi/VzOhnK0CuiE/maxresdefault.jpg" alt="URI" height="30" width="40" /></a>
- <a href="https://www.stopstalk.com/user/profile/Bipro_Bhowmik" target="blank"><img align="center" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" alt="URI" height="30" width="40" /></a>
+ <a href="https://www.stopstalk.com/user/profile/Bipro_Bhowmik" target="blank"><img align="center" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" alt="StopTalk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
