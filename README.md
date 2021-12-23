@@ -30,6 +30,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
  <a href="https://adonisjs.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/13810373?s=280&v=4" alt="adonisjs" width="40" height="40"/> </a>
+ <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://reactjs.org/logo-og.png" alt="reactjs" width="40" height="40"/> </a>
+ <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" alt="nextjs" width="40" height="40"/> </a>
  <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.onlinewebfonts.com/svg/img_238853.png" alt="socket.io" width="40" height="40"/> </a>
  <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://www.howtogeek.com/wp-content/uploads/2019/06/slack_logo.png?height=200p&trim=2,2,2,2" alt="slack" width="40" height="40"/> </a>
   <a href="https://i18n.nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://i18n.nuxtjs.org/preview-dark.png" alt="nuxt/i18n" width="40" height="40"/> </a>
