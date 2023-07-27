@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at **https://github.com/BiproBhowmik?tab=repositories**
 
-- 💬 Ask me about **Laravel, AdonisJS, NuxtJS**
+- 💬 Ask me about **Laravel, AdonisJS, VueJS & NuxtJS**
 
 - 📫 How to reach me **biprobhowmik5@gmail.com** AND **cse.bipro@gmail.com**
 
